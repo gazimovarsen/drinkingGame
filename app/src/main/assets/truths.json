@@ -1,0 +1,30 @@
+[
+  {
+    "question": "How are you?",
+    "opt1": "Good",
+    "opt2": "Bad",
+    "opt3": "So-so",
+    "answer": "Brilliant"
+  },
+  {
+    "question": "What is your name?",
+    "opt1": "Artem",
+    "opt2": "Boris",
+    "opt3": "Arthur",
+    "answer": "Arsen"
+  },
+  {
+    "question": "How old are you?",
+    "opt1": "18",
+    "opt2": "19",
+    "opt3": "20",
+    "answer": "21"
+  },
+  {
+    "question": "How tall are you?",
+    "opt1": "160",
+    "opt2": "165",
+    "opt3": "170",
+    "answer": "175"
+  }
+]
